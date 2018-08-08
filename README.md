@@ -1,0 +1,2 @@
+# PythonCountGrayPixelColor
+Python + OS PIL
